@@ -1,8 +1,8 @@
-+++
-title = "Chapter I"
-weight = 1
-date = "2020-11-21"
-+++
+---
+title: Chapter I
+weight: 1
+date: 2020-11-21
+---
 
 Zamara Rose scanned the dozens of pictures lining the wall in front of her. Each picture had a single face and a large “X” over it. She pressed a button on her earpiece.
 
@@ -11,7 +11,7 @@ Zamara Rose scanned the dozens of pictures lining the wall in front of her. Each
 “I’m not sure, what exactly am I seeing?” He replied.
 
 “All of these people were targeted and eliminated by one of the Blackstones, and it seems like it was Logan.”
-<!-- more -->
+
 “That’s what I see, I’m just working on the believing part.”
 
 Zamara felt the same way. Logan Blackstone was a prominent millionaire who rose to first class at the age of sixteen. One-third of his money was inherited from his mother and the rest came from his many businesses. Of the entire family, Zamara expected Vladimir to be their killer, not Logan. *And that’s why you don’t assume things.*
@@ -56,7 +56,7 @@ She sighed, “I suppose it’s for the best, he’s not my type anyway.”
 
 “What would be your type?”
 
-“Men with secrets.”
+Zamara thought for a moment. Perhaps it might be fun to bait him. “Men with secrets.” she replied.
 
 Vladimir narrowed his eyes at her, “Secretive men are dangerous.”
 
@@ -76,7 +76,7 @@ She raised a brow, “Not many.”
 
 He ignored the question, “Be careful with the attention you seek, some men will kill to protect their secrets.”
 
-She smiled mischievously, “And there lies some of the fun, you never know who might kill you and it’s a game to find out as much as you can before the end.”
+She smiled mischievously, *men like you?* she thought. Instead, she answered, “And there lies some of the fun, you never know who might kill you and it’s a game to find out as much as you can before the end.”
 
 “You may end up dead by the end.”
 
@@ -84,7 +84,7 @@ She smiled mischievously, “And there lies some of the fun, you never know who 
 
 Vladimir stopped and turned to her, “One of these days you will chase the wrong man and he will kill you if not worse.”
 
-“Than his secrets must have been worth finding.”
+*Oh, really? You have no idea who I am Blackstone.* “Than his secrets must have been worth finding.”
 
 He smiled and leaned forward, “Too bad you’ll be dead and won't fully enjoy them.”
 
@@ -96,7 +96,7 @@ The two scared at each other as time slowly passed. Zamara knew she had taken a 
 
 They continued walking. Vladimir didn’t say anything the rest of the way. Zamara wondered what he was thinking. If he really was the Phantom, then his mind would definitely be analyzing their conversation to the smallest detail. Zamara smiled.
 
-She had closely examined all of the Blackstones when she had been introduced to them, each had their own secrets. Vladimir was the gun, Logan pulled the trigger, and Dorian was the one that got the gun where it was needed. Yes, the three would make a good team. She wouldn’t be surprised if they shared the same alias.
+She had closely examined all of the Blackstones when she had been introduced to them, each had their own secrets; but who was her killer? She thought carefully. Vladimir could be the gun, Logan pulled the trigger, and Dorian was the one that got the gun where it was needed. Yes, the three would make a good team. She wouldn’t be surprised if they shared the same alias.
 
 They approached the ballroom, the party still in full effect. Zamara rolled her eyes, she could already pick out the drunk ones. She loved parties but hated alcohol. Dorian had tried to get her to drink some wine and she had blatantly refused, which he took as a dislike for that specific wine instead of wine in general. He had brought back nine different bottles of wine and Zamara had tasted each, none of them were to her liking. That didn’t stop Dorian though, he continued to suggest more types. If she hadn’t chosen to slip away at that point she was sure she would’ve tasted thirty bottles by now and gotten drunk just by tasting.
 
@@ -110,7 +110,7 @@ Zamara turned to her escort, “Thank you for the conversation, I enjoyed it.”
 
 “Ah! There you are! I was wondering where you ran off too.”
 
-Zamara gritted her teeth and turned to the man who was walking across the floor, “I got a bit lost on my way back from the ladies’ room.”
+Zamara, resisting the urge to roll her eyes, turned to the man who was walking across the floor, “I got a bit lost on my way back from the ladies’ room.”
 
 Dorian smiled as he came to a stop in front of her, “If you would’ve waited for me I could have escorted you and prevented that.”
 
@@ -118,7 +118,7 @@ Dorian smiled as he came to a stop in front of her, “If you would’ve waited 
 
 Dorian laughed, “One would think you were trying to escape the wine tasting.”
 
-Zamara smiled but said nothing.
+Zamara kept smiling but said nothing.
 
 Dorian turned to his brother, “Can you believe she doesn’t like any of our best wine? I had to start pulling out the cheap stuff.”
 
@@ -126,7 +126,7 @@ Zamara wondered how “cheap” the cheap stuff was, “I told you not to bother
 
 “And I told you I would find a bottle of wine you did like.”
 
-Vladimir glanced at her, “If she does not like the wine, perhaps a scotch would be better.” he suggested.
+Vladimir glanced at her, “If she does not like the wine, perhaps vodka would be better.” he suggested.
 
 Zamara laughed, “I would prefer neither, thank you. I have an aversion to alcohol, it only gets you in trouble.”
 
@@ -150,4 +150,4 @@ He whispered into her ear, “Those who seek out killers usually get killed.”
 
 She turned and followed Dorian to the floor. When she glanced back, Vladimir was staring at her with a look that sent shivers down her arms.
 
-The game has begun and in the end, one of them will end up dead.
+She was playing a dangerous game, a very dangerous game. By the end, one of them would end up dead. She just prayed it wouldn't be her.
