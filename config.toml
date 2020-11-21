@@ -1,0 +1,14 @@
+baseURL = "https://writing-buddies.netlify.app/"
+languageCode = "en-us"
+theme = "kitab"
+title = "Writing Buddies"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+pluralizelisttitles = false
+
+[params]
+  author = "First Last"
+  description = "Books by the Writing Buddies Community"
+  dateFormat = "2006-01-02"
+  footer1 = "Awesome Books"
+  footer2 = "(c) Writing Buddies"
