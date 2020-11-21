@@ -1,0 +1,122 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: "static/bookCovers"
+public_folder: "/bookCovers"
+collections:
+  - name: 'poetry'
+    label: 'Poetry'
+    folder: 'content/poetry'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
+  - name: 'plays'
+    label: 'Plays'
+    folder: 'content/plays'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'flash-fiction'
+    label: 'Flash Fiction'
+    folder: 'content/flash-fiction'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+            
+  - name: 'kidnapped-and-afraid'
+    label: 'Kidnapped and Afraid'
+    folder: 'content/kidnapped-and-afraid'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
+  - name: 'kidnapped-and-afraid'
+    label: 'Kidnapped and Afraid'
+    folder: 'content/kidnapped-and-afraid'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'test-my-fire'
+    label: 'Test My Fire'
+    folder: 'content/test-my-fire'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'pur-ti-miro'
+    label: 'Pur Ti Miro'
+    folder: 'content/pur-ti-miro'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
+  - name: 'dear-diary-do-you-wanna-know-a-secret'
+    label: 'Dear Diary, Do You Wanna Know A Secret'
+    folder: 'content/dear-diary-do-you-wanna-know-a-secret'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
+  - name: 'kidnapped-and-afraid'
+    label: 'Kidnapped and Afraid'
+    folder: 'content/kidnapped-and-afraid'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Weight', name: 'weight', widget: 'number'
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
