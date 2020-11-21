@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: "static/bookCovers"
-public_folder: "/bookCovers"
+media_folder: "static/images"
+public_folder: "/images"
 collections:
   - name: 'poetry'
     label: 'Poetry'
@@ -55,19 +55,6 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'number'
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      
-  - name: 'kidnapped-and-afraid'
-    label: 'Kidnapped and Afraid'
-    folder: 'content/kidnapped-and-afraid'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'number'
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'test-my-fire'
     label: 'Test My Fire'
@@ -108,15 +95,3 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
-  - name: 'kidnapped-and-afraid'
-    label: 'Kidnapped and Afraid'
-    folder: 'content/kidnapped-and-afraid'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'number'
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
