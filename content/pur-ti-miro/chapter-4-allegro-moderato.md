@@ -1,6 +1,6 @@
 +++
 title = "Chapter 4 ~ Allegro Moderato"
-weight = 1
+weight = 4
 date = "2020-06-28"
 +++
 
