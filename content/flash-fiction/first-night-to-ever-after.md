@@ -1,7 +1,7 @@
 +++
 title = "First Night to Ever After ~ a Brett x Reader one-shot"
 date = "2020-06-26"
-weight: 1
+weight = 1
 +++
 
 **Warning:** This story includes a panic attack related to trauma from rape. Discretion is advised.
