@@ -71,4 +71,20 @@ I jumped, moved to the other side of the bed, and stood up. My head swam but I i
 
 I blinked, trying to get my eyes to focus in the darkness. I heard a chuckle and a cool hand touched mine and started pulling me... somewhere.
 
-We walked through a doorway and my eyes made out moonlight shining through a window. It looked like we were in a sitting room. I tried not to focus on the hand that grasped mine, it was cool and calloused.
+We walked through a doorway and my eyes made out moonlight shining through a window. It looked like we were in a sitting room. I tried not to focus on the hand that grasped mine, it was cool and calloused. I shivered. For some reason, his hands were sending chills up my arm and across my whole body. We entered a hallway, softly lit with torches. I kept getting the feeling that I had somehow gone back in time to a medieval world and was in a gothic castle.
+
+I tugged on my grasped hand, "I think I can walk on my own now, thank you."
+
+He turned and I had a glimpse of a hard-toned face and yellow eyes, "If you wish."
+
+He let go of my hand and continued walking. I slowed down a bit and examined him. He was almost six and a half feet tall with an equally proportioned body. It was hard to tell but I had a feeling he was also very muscular. He reminded me of Carlos' brother. I gritted my teeth. Why did I keep thinking about him! I paced my breathing and my steps. I knew that if I slowed down just a little and shorten my strides, the man walking in front of me wouldn't notice I was lagging behind him. I used to do it all the time to Carlos. I growled under my breath. Of all the days that arrogant... thug had to plague my thoughts, it had to be today. I had worked so hard to forget that time in my life! I again focused on my breathing and closely watched the man in front of me. The gap between us was slowly growling and I started counting the seconds before I switched directions.
+
+One more minute passed and I started quieting in my footsteps. Mr. Cryptic was now nearly 1000 feet in front of me. I held my breath as he rounded a corner. Was he really that oblivious? I quickly turned around and hurried back down the hallway we came from. We had passed many doors and I quickly choose one to sneak into. I held my breath as I turned a knob. The door opened soundlessly and I uttered another prayer of thanks. I slipped into the room and shut the door behind me.
+
+The room was a large room full of beautiful, large-scale artwork. I stared in awe at a family picture that loomed many feet above me. I studied each beautifully-sculpted face, wondering who each person was and the story they had. It was a family of six---a father, mother, three sons, and a daughter. Each had long hair past their shoulders, the men wore it in one long braid while the two women had many braids. The father's hair looked white while his wife's seemed auburn. The children's hair seemed auburn. The children's hair seemed to be auburn as well if not a little lighter. It was hard to tell with only the moonlight illuminating the painting. I stepped closer and touched the handcrafted frame.
+
+"Breathtaking, isn't it?"
+
+I jumped and spun around. My kidnapped was standing behind me, casually leaning against the wall with his arms crossed.
+
+I opened my mouth to reply and closed it back again. My heart was in my throat and my headache turned into a frenzied woodpecker. Two glowing orange eyes were staring back at me.
