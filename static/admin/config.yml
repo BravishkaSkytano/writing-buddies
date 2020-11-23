@@ -69,19 +69,6 @@ collections:
       - { label: 'Chapter', name: 'weight', widget: 'number' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'pur-ti-miro'
-    label: 'Pur Ti Miro'
-    folder: 'content/pur-ti-miro'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
       
   - name: 'dear-diary-do-you-wanna-know-a-secret'
     label: 'Dear Diary, Do You Wanna Know A Secret'
