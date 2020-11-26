@@ -3,11 +3,11 @@ title: Chapter 1
 weight: 1
 date: 2020-11-21T23:51:39.611Z
 ---
-Sasha laid on her bed, staring at the ceiling. Sleep was evading her. She had been lying in bed for the last 2 hours, tossing and turning. Her world was starting to crash down and she didn't know how to stop it. 
+Sasha laid on her bed, staring at the ceiling. Sleep was evading her. She had been lying in bed for the last 2 hours, tossing and turning. Her world was starting to fall apart and she didn't know how to stop it. 
 
 "Maybe I should write this all down," she murmured to herself, "then maybe I can come up with a game plan."
 
-She sat up and pulled out her brand new diary from her nightstand and stared at the cover. Her aunt had been trying to get her to write a diary for years but Sasha was never really interested. Even now, she was debating if she actually wanted to write down all her secrets in a book for others to see.
+She sat up and pulled out her brand new diary from her nightstand and stared at the cover. Her aunt had been trying to get her to write a diary for years but Sasha was never really interested. Even now, she was debating if she actually wanted to write down all her secrets in a book for others to find.
 
 She signed, opened the book, grabbed a pen, and started writing.
 
@@ -23,4 +23,4 @@ She signed, opened the book, grabbed a pen, and started writing.
 
 *I think I'm starting to accept the fact that Jennifer and I are going to be bosom buddies for a while. Well, I was starting to accept that until she figuratively pushed me down a hill without brakes. What do I mean? It's a long, and somewhat humorous, story...*
 
-Sasha sighed again and tossed the diary on the floor. She didn't want to relive that part yet. She closed her eyes and let the tears finally lured her to sleep.
+Sasha sighed again and tossed the diary on the floor. She didn't want to relive that part yet. She closed her eyes and let the tears finally lure her to sleep.
