@@ -1,5 +1,5 @@
 +++
-title = "Happy Mother's Day, Mom by Bravisha Skietano"
+title = "Happy Mother's Day, Mom"
 weight = 4
 date = "2020-06-24"
 +++
@@ -30,3 +30,5 @@ That you are special,\
 And I don't want you to go before I tell you.
 
 Happy Mother's Day!
+
+Penned by Yoda Elentiya Atolkien

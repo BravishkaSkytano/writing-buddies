@@ -1,5 +1,5 @@
 +++
-title = "Why Did God Take My Daddy From Me? by Bravisha Skietano"
+title = "Why Did God Take My Daddy From Me?"
 weight = 3
 date = "2020-06-24"
 +++
@@ -51,3 +51,5 @@ She nodded and smiled, feeling the pain lessen. It was still there, but it no lo
 God glanced at her one last time. Then, He raised His hand and disappeared in a flash of light.
 
 The girl again looked up to the heavens, but no longer did she cry. Instead, she smiled and thanked God for His gift in disguise.
+
+Penned by Yoda Elentiya Atolkien
