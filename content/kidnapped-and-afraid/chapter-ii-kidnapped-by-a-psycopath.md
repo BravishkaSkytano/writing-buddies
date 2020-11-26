@@ -88,3 +88,85 @@ The room was a large room full of beautiful, large-scale artwork. I stared in aw
 I jumped and spun around. My kidnapped was standing behind me, casually leaning against the wall with his arms crossed.
 
 I opened my mouth to reply and closed it back again. My heart was in my throat and my headache turned into a frenzied woodpecker. Two glowing orange eyes were staring back at me.
+
+"How, how did you know where I was?" I whispered.
+
+He chuckled, "I heard you turn around and walk into this room."
+
+"H-h-how? I was quiet." I stammered.
+
+He cocked his head, "I have very good hearing, far superior to yours."
+
+I closed my eyes and tried to calm the crazed bird in my head. I counted ten seconds, opened my eyes, and jumped. The glowing eyes had gotten closer, much closer. He was an arms-length away, far too close for my comfort.
+
+We stared at each other. I couldn't look away from his gaze as his eyes mesmerized me. Despite the warnings in my mind, I tentatively reached my hand up to touch his face. His gaze never wavered as my hand carefully grazed his skin. Up close, I could make out the features of his bronze skin. His hair lay in waves upon his shoulder and with small bangs across his forehead. It seemed like the same artist who had carefully painted the masterpiece behind me had sculpted the face in front of me.
+
+I continued to slowly caress his face. Slowly, he leaned into my head and began to purr. I sucked in a breath.
+
+"How... how do you do that?" I whispered.
+
+He reached up and slowly trailed his fingers down my cheek to my neckbone, "Perhaps, someday I will teach you."
+
+He stepped back and clasped my hand, "Come, you need to eat and take something for that headache of yours."
+
+I allowed him to gently pull me back into the hallway we had originally started on. He didn't let go of my hand and I didn't ask him to. I was starving and slightly confused. Why was I here? What did he want me? Who was he?
+
+"What *is* your name?" I casually asked.
+
+"Mr. Man-Cat the Cryptic." He replied.
+
+I nearly stumbled over my feet and froze. "Wh-what?"
+
+"Isn't that what you call me?" He turned to glance at me.
+
+"Umm..." I stammered. My memory rushed back and the woodpecker in my head went off into a frenzy again.
+
+I winced, "But, but, how did you know that?"
+
+His eyes glimmered and he continued down the hallway, tugging along. Confusion took control over my mind and the banging in my head increased.
+
+What is happening? He broke into my home, God only knows how, and kidnapped me. Why? What does he want? Is he a psychopath? Did he... did he *touch* me? I started to panic. No, no, no, this couldn't be happening to me. Not again, please God, no.
+
+I yanked my hand out of his grasp, "Get away from me!"
+
+He froze and turned towards me, "Marissa..."
+
+I took two steps back, "What do you want with me?"
+
+"Marissa, calm down." He purred.
+
+"Who are you!" I yelled at him.
+
+"Shhh..."
+
+"Don't shush me! Who are you? Who, who paid you to kidnap me?"
+
+He cocked his head at me.
+
+"Answer me!" I screamed.
+
+"Calm down Marissa, I'm not going to hurt you."
+
+"Why am I here?" I seethed.
+
+My head was pounding and I couldn't stop wincing.
+
+He stepped towards me, "Marissa, come, you need to rest your head."
+
+"Stay away from me!" I screamed back at him and ran.
+
+His hands grabbed me and I screamed, fighting his grasp.
+
+"Let go of me!" I screamed over and over again, "Let go!"
+
+"Marissa! Stop it!" He growled, "Calm down."
+
+I gasped as pain ripped through my head. I couldn't breathe. I struggled against the darkness that was closing in. *I can't pass out... I can't...*
+
+***
+
+He watched as she slowly stopped struggling and went limp in his arms. He sighed. 
+
+*They always fight, always. And they only hurt themselves.* He thought.
+
+He picked her up and continued walking down the hallway, *She'll awaken soon. When she does, I'll crame food and medicine down her throat.*
