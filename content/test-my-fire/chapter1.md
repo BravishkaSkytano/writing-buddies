@@ -90,7 +90,7 @@ He smiled and leaned forward, “Too bad you’ll be dead and won't fully enjoy 
 
 Zamara’s heart stopped. Vladimir’s smile was both deadly and beautiful. She knew she was in deep trouble yet that didn’t stop her from leaning forward and whispering, “Who knows, I might survive.”
 
-The two scared at each other as time slowly passed. Zamara knew she had taken a big risk. The last thing she needed was for the Blackstone’s to be on high alert, especially this one.
+The two stared at each other as time slowly passed. Zamara knew she had taken a big risk. The last thing she needed was for the Blackstone’s to be on high alert, especially this one.
 
 “Shall we?” She asked, beckoning to the direction of the ballroom.
 
