@@ -13,7 +13,7 @@ I tried to focus on last night but the banging in my head made that task very di
 
 I scanned the room. Nothing but darkness greeted me. I rubbed my eyes. *Where am I?*
 
-I groaned and rolled over onto my stomach. *This be is so soft and fluffy, like a cloud. Wait, what?* I touched the sheets, *This isn't my bed! Oh, crap, who's bed am I in and why? No, no, no...*
+I groaned and rolled over onto my stomach. *This bed is so soft and fluffy, like a cloud. Wait, what?* I touched the sheets, *This isn't my bed! Oh, crap, who's bed am I in and why? No, no, no...*
 
 I took a deep breath, *Breathe Marissa, panicking never did you any good. Breathe, relax, think.*
 
@@ -170,3 +170,5 @@ He watched as she slowly stopped struggling and went limp in his arms. He sighed
 *They always fight, always. And they only hurt themselves.* He thought.
 
 He picked her up and continued walking down the hallway, *She'll awaken soon. When she does, I'll crame food and medicine down her throat.*
+
+*And then... then we'll play a little.*
