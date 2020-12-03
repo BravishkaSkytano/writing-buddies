@@ -1,5 +1,5 @@
 +++
-title = "First Night to Ever After ~ a Brett x Reader one-shot"
+title = "First Night to Ever After ~ a Brett x Reader one-shot by Cherry"
 date = "2020-06-26"
 weight = 1
 +++
