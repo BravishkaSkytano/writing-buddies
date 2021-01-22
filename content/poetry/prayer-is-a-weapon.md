@@ -27,4 +27,4 @@ What will you change?\
 Choose wisely because with this weapon\
 You could change much more than you think.
 
-Penned by Yoda Elentiya Atolkien
+Penned by Bravisha Skietano

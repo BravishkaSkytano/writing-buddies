@@ -52,4 +52,4 @@ God glanced at her one last time. Then, He raised His hand and disappeared in a 
 
 The girl again looked up to the heavens, but no longer did she cry. Instead, she smiled and thanked God for His gift in disguise.
 
-Penned by Yoda Elentiya Atolkien
+Penned by Bravisha Skietano

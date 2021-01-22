@@ -1,7 +1,7 @@
 +++
 title = "Kidnapped and Afraid"
 subtitle = ""
-author = "Yoda Elentiya Atolkien"
+author = "Bravisha Skietano"
 date = "2020-06-25"
 weight = 5
 bookCover = "bookCovers/kidnapped-and-afraid.jpg"
