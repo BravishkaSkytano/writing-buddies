@@ -4,7 +4,7 @@ weight = 4
 date = "2020-11-21"
 +++
 
-If you want to add a new book to the site, you will need to email the administrators at writing-buddies@outlook.com. In the email, you will need to provide book title, author-s name, cover, and a short description of the book.
+If you want to add a new book to the site, you will need to PM one of the admins in the Habitica guild, you will need to provide book title, author's name, cover, and a short description of the book.
 
 For the cover, it needs to be a file. You can send a link to the page where the file is or insert the file itself. If you don't have a cover, you can look on sites like [Unsplash](https://unsplash.com) or [Pixabay](https://pixabay.com) for one. Just send the URL of the picture you chose in the email.
 
