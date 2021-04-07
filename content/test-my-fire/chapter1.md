@@ -1,5 +1,5 @@
 ---
-title: Chapter I ~ The Game Begins
+title: "Chapter One: The Game Begins"
 weight: 1
 date: 2020-11-21
 ---

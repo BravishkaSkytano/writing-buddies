@@ -1,5 +1,5 @@
 +++
-title = "Chapter I ~ The Stranger"
+title = "Chapter One: The Stranger"
 weight = 1
 date = "2020-06-25"
 +++

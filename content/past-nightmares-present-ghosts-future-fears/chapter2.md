@@ -1,5 +1,5 @@
 +++
-title = "Chapter 2"
+title = "Chapter Two"
 weight = "2"
 date = "2021-03-30"
 +++
