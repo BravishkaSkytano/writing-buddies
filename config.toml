@@ -37,6 +37,7 @@ url = "/index.xml"
 
 [params]
   summary_length = 200
+  github_edit = "/#/edit/stories/"
   footer = "Write. Read. Share. &copy; Writing Buddies 2020-22"
 
 [params.text]

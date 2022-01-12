@@ -30,19 +30,9 @@ Those were not so bad, right?
 
 Now, we're getting to the real stuff. First off, in case you didn't know, CMS stands for Content Management System. Typically, they're for people to add content to a site without requiring any technical skills. Think of it as a user-friendly interface like the ones WordPress and Wattpad uses.
 
-Here, I have chosen to use NetlifyCMS because it's free and pretty easy to use. If you already know how to use NetlifyCMS, you can [skip ahead](#contacting-the-admins).
-
-To access the CMS for this site, all you need to do is go [here](/admin/), click "Login with Netlify Identity," and sign up.
-
-### Signing Up
-
-When you sign up for this site, you will be asked for your name, email, and password, or to sign in using Google, GitHub, GitLab, or BitBucket. Your name should be the name you want to be recognized by on the site, whether that is your real name or a pen name is up to you.
-
-> **Note:** if the name associated with your Google, GitHub, GitLab, or BitBucket account is not the name you want to use here, don't sign up with those accounts.
+Here, I have chosen to use NetlifyCMS because it's free and pretty easy to use. To it, you need to go to [the admin page](/admin/) and sign into GitHub. GitHub is the place where I store the site files, it's completely free and safe to use so don't worry. Once you create/login to GitHub, it will ask you if it can fork the site. Go ahead and click "Fork." If all goes well (which it should), you should now see the CMS page and be able to start adding content!
 
 ### Adding Content
-
-> **DO NOT** touch content that does not belong to you **unless** you have been given permission by the original author. If you do this, you will be notified by the admin and receive a penalty. If you receive three penalties, you will be removed from the site.
 
 On the left, you will see a list of sections. Each of these sections applies to the type of content and they hold. Right now, there should only be one section labeled "Stories." To add your own posts, click on that folder and select "New Post".
 
@@ -54,9 +44,8 @@ From here on out, things should be pretty easy to figure out. The next screen is
 
 ### Metadata
 
-There 9 different frontmatter fields:
+There 8 different frontmatter fields:
 
-* Draft
 * Title
 * Date
 * Author
@@ -67,10 +56,6 @@ There 9 different frontmatter fields:
 * TOC (optional)
 
 Some of them are easy to figure out, so I won't mention them. I will try to go over the others briefly in case you're not sure about them.
-
-#### Draft
-
-This is a simple toggle field that lets the CMS know if you're finished writing that particular post. I'm only mentioning it to say this: make sure you toggle it when you're ready to publish it. The default position is "true" and it can be a simple mistake to forget to toggle it and then start wondering why your post never shows up on the homepage.
 
 #### Title
 
