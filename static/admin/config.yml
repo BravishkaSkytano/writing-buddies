@@ -1,85 +1,24 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-publish_mode: editorial_workflow
 media_folder: "static/images"
 public_folder: "/images"
 collections:
-  - name: 'poetry'
-    label: 'Poetry'
-    folder: 'content/poetry'
+  - name: 'stories'
+    label: 'Stories'
+    folder: 'content/stories'
     create: true
     slug: '{{slug}}'
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
-  - name: 'plays'
-    label: 'Plays'
-    folder: 'content/plays'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'flash-fiction'
-    label: 'Flash Fiction'
-    folder: 'content/flash-fiction'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-            
-  - name: 'kidnapped-and-afraid'
-    label: 'Kidnapped and Afraid'
-    folder: 'content/kidnapped-and-afraid'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: 'test-my-fire'
-    label: 'Test My Fire'
-    folder: 'content/test-my-fire'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
-  - name: 'dear-diary-do-you-wanna-know-a-secret'
-    label: 'Dear Diary, Do You Wanna Know A Secret'
-    folder: 'content/dear-diary-do-you-wanna-know-a-secret'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Chapter', name: 'weight', widget: 'number' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Draft?", name: 'draft', widget: 'boolean', default: 'true', required: false }
+      - { label: 'Title', name: 'title', widget: 'string', hint: "Remember: [BOOK] - Chapter..." }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string', hint: 'Make sure you spelled it correctly!' }
+      - { label: 'Book', name: 'categories', widget: 'list', allow_add: true, label_singular: 'New book' }
+      - { label: 'Tags', name: 'tags', widget: 'list', allow_add: true, label_singular: 'New tag'}
+      - { label: "Description", name: 'description', widget: 'text', hint: '(Optional) Default is the first 200 characters of the post', required: false }
+      - { label: "Thumbnail", name: 'thumbnail', widget: 'image', allow_multiple: false, choose_url: true, hint: '(Optional) Default is the first image that appears in the post, if any', required: false }
+      - { label: "TOC", name: 'toc', widget: 'boolean', default: 'false', required: false }
       

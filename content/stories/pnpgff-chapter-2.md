@@ -1,7 +1,10 @@
 +++
-title = "Chapter Two"
-weight = "2"
+title = "[PNPGFF] - Chapter 2"
 date = "2021-03-30"
+author = "Bravisha Skietano"
+categories = ['Past Nightmares, Present Ghosts, Future Fears']
+tags = ['mystery', 'thriller', 'detective', 'special-needs']
+thumbnail = 'images/pnpgff.jpg'
 +++
 
 Zipporah Tano watched her horses galloping around the pasture. One of her dogs, Hunter, whined beside her. She smiled, he wanted to be out there running with the horses too. She decided to oblige him and opened the porch door. Like a rocket, Wolf shot out the door howling for joy and his two brothers were running downstairs to join him. Zipporah smiled to herself, those three loved the woods as much as she did.

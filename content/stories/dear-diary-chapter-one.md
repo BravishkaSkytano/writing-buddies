@@ -1,9 +1,15 @@
 ---
-title: Chapter One
-weight: 1
+title: "[Dear Diary...] - Chapter One"
 date: 2020-11-21T23:51:39.611Z
+author: Bravisha Skietano
+categories:
+- 'Dear Diary'
+tags:
+- romance
+- mystery
+thumbnail: "images/dear-diary.jpg"
 ---
-Sasha laid on her bed, staring at the ceiling. Sleep was evading her. She had been lying in bed for the last 2 hours, tossing and turning. Her world was starting to fall apart and she didn't know how to stop it. 
+Sasha laid on her bed, staring at the ceiling. Sleep was evading her. She had been lying in bed for the last 2 hours, tossing and turning. Her world was starting to fall apart and she didn't know how to stop it.
 
 "Maybe I should write this all down," she murmured to herself, "then maybe I can come up with a game plan."
 

@@ -1,7 +1,9 @@
 +++
 title = "First Night to Ever After ~ a Brett x Reader one-shot by Cherry"
 date = "2020-06-26"
-weight = 1
+author = 'Cherry'
+categories = ['Flash Fiction', 'Fan-Fiction']
+tags = ['panic attack', 'rape', 'trauma', 'love']
 +++
 
 **Warning:** This story includes a panic attack related to trauma from rape. Discretion is advised.
@@ -10,7 +12,7 @@ weight = 1
 
 (See the end of the work for more notes.)
 
----
+***
 
 It’s the night of our wedding. We held the ceremonies at our favorite beach, one I consider my “happy place”.
 
@@ -83,7 +85,7 @@ I close my eyes and let his soft lips find their way to mine.
 
 This is the first night of our ever after.
 
----
+***
 
 **Notes:** Hello! This is my first attempt at writing a one-shot, so I am still trying to learn the ropes in fan-fiction writing. I will greatly appreciate it if you can give me feedback.
 

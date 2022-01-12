@@ -1,7 +1,9 @@
 +++
 title = "Prayer Is A Weapon"
-weight = 2
 date = "2020-06-24"
+author = 'Bravisha Skietano'
+categories = ['Poetry']
+tags = ['prayer', 'weapons']
 +++
 
 Prayer is a weapon.\
@@ -26,5 +28,3 @@ So what will you do with prayer?\
 What will you change?\
 Choose wisely because with this weapon\
 You could change much more than you think.
-
-Penned by Bravisha Skietano

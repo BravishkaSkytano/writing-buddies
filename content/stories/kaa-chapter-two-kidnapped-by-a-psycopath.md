@@ -1,9 +1,13 @@
 ---
-title: "Chapter Two: Kidnapped By A Psycopath"
+title: "[KaA] - Chapter Two: Kidnapped By A Psycopath"
 weight: 2
 date: 2020-11-22T01:02:32.414Z
+author: 'Bravisha Skietano'
+categories: ['Kidnapped and Afraid']
+tags: ['mystery', 'kidnapping']
+thumbnail: 'images/kaa.jpg'
 ---
-When I woke up, my head was killing me. Everything was killing me. My back ached and my limbs felt like they were underwater. I moaned and tried to get up. 
+When I woke up, my head was killing me. Everything was killing me. My back ached and my limbs felt like they were underwater. I moaned and tried to get up.
 
 *Why is it so dark in here?* I thought.
 
@@ -37,7 +41,7 @@ That voice... It was vaguely familiar. That purr... where have I heard it before
 
 "Most people have headache's when I'm done with them."
 
-I blinked. I could barely make out the outline of the man who stood a few yards away. His voice was so familiar though I couldn't place where I had heard it before. 
+I blinked. I could barely make out the outline of the man who stood a few yards away. His voice was so familiar though I couldn't place where I had heard it before.
 
 "What do you mean?" I asked, "What do you do to them?"
 
@@ -165,7 +169,7 @@ I gasped as pain ripped through my head. I couldn't breathe. I struggled against
 
 ***
 
-He watched as she slowly stopped struggling and went limp in his arms. He sighed. 
+He watched as she slowly stopped struggling and went limp in his arms. He sighed.
 
 *They always fight, always. And they only hurt themselves.* He thought.
 

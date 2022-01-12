@@ -1,14 +1,49 @@
 baseURL = "https://writing-buddies.netlify.app/"
 languageCode = "en-us"
-theme = "kitab"
+theme = "xmag"
 title = "Writing Buddies"
+preserveTaxonomyNames = "true"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
-pluralizelisttitles = false
+paginate = 12
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Books"
+url = "/categories/"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+
+[[menu.main]]
+name = 'Join Us!'
+url = '/docs/'
+weight = 5
+
+[[menu.main]]
+name = "Subscribe"
+url = "/index.xml"
 
 [params]
-  author = "Writing Buddies Community"
-  description = "Books by the Writing Buddies Community"
-  dateFormat = "2006-01-02"
-  footer1 = "Write. Read. Share."
-  footer2 = "(c) Writing Buddies"
+  summary_length = 200
+  footer = "Write. Read. Share. &copy; Writing Buddies 2020-22"
+
+[params.text]
+    about_author = "About the Author"
+    author_delimiter = ", "
+    back = "Back to Home"
+    edit = "Edit this page"
+    tags = "Tags: "
+    truncated = " &hellip;"
+    uncategorized = "Uncategorized"

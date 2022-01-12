@@ -1,7 +1,8 @@
 +++
 title = "Today"
-weight = 1
 date = "2020-06-24"
+author = 'Bravisha Skietano'
+categories = ['Poetry']
 +++
 
 Sometimes I wonder what's different 'bout today\
@@ -18,5 +19,3 @@ Yes, tomorrow is great,\
 I won't deny that,\
 But today's the day that's greater than great.\
 You see, today is the day you'll learn to be great.
-
-Penned by Bravisha Skietano

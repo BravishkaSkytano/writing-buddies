@@ -1,7 +1,9 @@
 +++
 title = "Happy Mother's Day, Mom"
-weight = 4
 date = "2020-06-24"
+author = "Bravisha Skietano"
+categories = ['Poetry']
+tags = ['holidays', "Mother's Day", 'love']
 +++
 
 You know that feeling you get when you've became one year older?\
@@ -30,5 +32,3 @@ That you are special,\
 And I don't want you to go before I tell you.
 
 Happy Mother's Day!
-
-Penned by Bravisha Skietano

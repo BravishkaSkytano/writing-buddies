@@ -1,7 +1,11 @@
 ---
-title: "Chapter One: The Game Begins"
-weight: 1
+title: "[TMF] - Chapter 1: The Game Begins"
 date: 2020-11-21
+author: "Bravisha Skietano"
+categories:
+- 'Test My Fire'
+tags: ['mystery', 'thriller', 'spy']
+thumbnail: 'images/tmf.jpg'
 ---
 
 Zamara Rose scanned the dozens of pictures lining the wall in front of her. Each picture had a single face and a large “X” over it. She pressed a button on her earpiece.

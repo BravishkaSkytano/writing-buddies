@@ -1,7 +1,10 @@
 +++
-title = "Chapter One: The Stranger"
-weight = 1
+title = "[KaA] - Chapter One: The Stranger"
 date = "2020-06-25"
+author = 'Bravisha Skietano'
+categories = ['Kidnapped and Afraid']
+tags = ['mystery', 'kidnapping']
+thumbnail = 'images/kaa.jpg'
 +++
 
 Someone's watching me.

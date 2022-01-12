@@ -1,7 +1,9 @@
 +++
 title = "Why Did God Take My Daddy From Me?"
-weight = 3
 date = "2020-06-24"
+author = 'Bravisha Skietano'
+categories = ['Poetry']
+tags = ['sorrow', 'death', 'loss', 'comfort']
 +++
 
 "Why did God take him?" The girl yelled, "Why is he gone? Why would God take my Daddy from me?" She sobbed. "How can this part of God's plan for me?"

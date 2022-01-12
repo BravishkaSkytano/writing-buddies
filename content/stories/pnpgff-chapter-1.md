@@ -1,7 +1,10 @@
 +++
-title = "Chapter One"
-weight = "1"
+title = "[PNPGFF] - Chapter 1"
 date = "2021-01-21"
+author = "Bravisha Skietano"
+categories = ['Past Nightmares, Present Ghosts, Future Fears']
+tags = ['mystery', 'thriller', 'detective', 'special-needs']
+thumbnail = 'images/pnpgff.jpg'
 +++
 
 Homicide Detective Jared Clemmings stared at the stack of papers on his desk. Nothing was making sense and he was getting no where. It was almost five and most were heading home, but he was stuck in his office trying to figure out why a guy's wife was suddenly missing.
