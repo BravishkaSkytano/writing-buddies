@@ -44,11 +44,12 @@ From here on out, things should be pretty easy to figure out. The next screen is
 
 ### Metadata
 
-There 8 different frontmatter fields:
+There 9 different frontmatter fields:
 
 * Title
 * Date
 * Author
+* Book title
 * Categories
 * Tags
 * Description (optional)
@@ -70,12 +71,6 @@ This is just so readers will know which chapters go to what books and all. It re
 
 If your post is not part of a book, then you can just type in the title of your work. This also applies if you are posting something, like a play, that is split in two or three parts.
 
-#### Book & Tags
-
-The "Book" field is just the name of your book. There are some options available, but you can add your own if its not there already, just type it in. If you're not writing a book, then think of these as a category and use one of the genres like "Poetry" or "Play."
-
-The tags are the minor labels that categorize your post, like genre, tropes or content warnings. These don't have to be added, but it's good practice so readers can get a better idea if your story will appease their tastes. Think of them as the hashtags you would add to social media posts for others to find yours. You are free to add in more tags if you want, but try not to go crazy with it and use terms that people will understand without a dictionary.
-
 #### Description, Thumbnail, and TOC
 
 These are the optional fields that you will ignore most of the time.
@@ -88,7 +83,7 @@ The TOC toggle field is if you want to add a "Table of Contents" to your post. I
 
 ### About the "About the Author" Section
 
-It is possible to insert your own bio under your stories, just contact the admin(s) and send them your bio. If you have a GitHub account, you can do it yourself by editing the [authors.toml](https://github.com/Aspiring-Writer/writing-buddies/edit/master/data/authors.toml) file in the [writing-buddies](https://github.com/Aspiring-Writer/writing-buddies) repo.
+It is possible to insert your own bio under your stories, just add a comment on the [authors page](/authors/). If you have a GitHub account, you can do it yourself by editing the [authors.toml](https://github.com/Aspiring-Writer/writing-buddies/edit/master/data/authors.toml) file in the [writing-buddies](https://github.com/Aspiring-Writer/writing-buddies) repo.
 
 ## Contacting the Admin(s)
 
