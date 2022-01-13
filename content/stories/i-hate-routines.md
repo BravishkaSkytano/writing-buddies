@@ -2,7 +2,7 @@
 title: I Hate Routines
 date: 2022-01-13T23:23:05.067Z
 author: Bravisha Skietano
-books: n
+books: ""
 categories:
   - Nonfiction
 tags:
