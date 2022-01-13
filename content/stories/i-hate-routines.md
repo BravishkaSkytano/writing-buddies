@@ -1,6 +1,6 @@
 ---
 title: I Hate Routines
-date: 2022-01-13T23:23:05.067Z
+date: 2021-12-03T23:23:05.067Z
 author: Bravisha Skietano
 books: ""
 categories:
