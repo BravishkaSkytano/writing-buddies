@@ -2,8 +2,9 @@
 title: "[CoSaF] - Prologue"
 date: 2022-01-13T00:05:20.429Z
 author: Bravisha Skietano
-categories: "['Court of the Shadows']"
+categories: "['Court of Shadows and Ruin']"
 tags: []
+thumbnail: /images/fantasy-g9789e368f_640.jpg
 ---
 *They're dead.*
 
