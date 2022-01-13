@@ -19,6 +19,7 @@ collections:
         name: 'title'
         widget: 'string'
         hint: "Remember: [BOOK] - Chapter... (unless your post is not part of a book)"
+        required: true
       - 
         label: 'Date'
         name: 'date'
@@ -28,13 +29,13 @@ collections:
         name: 'author'
         widget: 'string'
         hint: 'Make sure you spelled it correctly!'
+        required: true
       - 
         label: 'Book'
         name: 'categories'
-        widget: 'list'
-        default: ["Uncategorized"]
-        allow_add: true
-        label_singular: 'New book'
+        widget: 'string'
+        required: true
+        hint: "Until I can fix it, you need to format this field as ['Book Title']. Weird, I know, sorry"
       - 
         label: 'Tags'
         name: 'tags'
