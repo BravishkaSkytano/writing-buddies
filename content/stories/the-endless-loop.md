@@ -2,7 +2,7 @@
 title: The Endless Loop
 date: 2021-10-01T22:19:26.401Z
 author: Bravisha Skietano
-books: None
+books: ""
 categories:
   - Nonfiction
 tags:
