@@ -1,10 +1,10 @@
-+++
-title = "Prayer Is A Weapon"
-date = "2020-06-24"
-author = 'Bravisha Skietano'
-categories = ['Poetry']
-tags = ['prayer', 'weapons']
-+++
+---
+title: "Prayer Is A Weapon"
+date: 2020-06-24
+author: 'Bravisha Skietano'
+categories: ['Nonfiction']
+tags: ['poetry', 'prayer', 'weapons']
+---
 
 Prayer is a weapon.\
 You may not believe it but it's true.\

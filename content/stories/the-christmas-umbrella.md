@@ -1,8 +1,8 @@
 ---
 title: "The Christmas Umbrella"
 date: '2020-12-20T18:21:13.916Z'
-categories: ['Flash Fiction']
-tags: ['Christmas', 'hope']
+categories: ['Literary Fiction']
+tags: ['flash-fiction', 'Christmas', 'hope']
 ---
 “What a stupid present!” was the very first thing that I heard as the wrapping was torn away and the morning light hit my newborn eyes.
 

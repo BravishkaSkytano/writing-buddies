@@ -1,10 +1,10 @@
 ---
 title: "[KaA] - Chapter Two: Kidnapped By A Psycopath"
-weight: 2
 date: 2020-11-22T01:02:32.414Z
 author: 'Bravisha Skietano'
-categories: ['Kidnapped and Afraid']
-tags: ['mystery', 'kidnapping']
+books: Kidnapped and Afraid
+categories: ['Mystery']
+tags: ['kidnapping']
 thumbnail: 'images/kaa.jpg'
 ---
 When I woke up, my head was killing me. Everything was killing me. My back ached and my limbs felt like they were underwater. I moaned and tried to get up.

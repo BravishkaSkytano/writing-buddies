@@ -1,8 +1,11 @@
 ---
-title: "[CoSaF] - Prologue"
+title: "[CoSaR] - Prologue"
 date: 2022-01-13T00:05:20.429Z
 author: Bravisha Skietano
-categories: "['Court of Shadows and Ruin']"
+books: Court of Shadows and Ruin
+categories:
+- 'Fantasy'
+- 'Romance'
 tags: []
 thumbnail: /images/fantasy-g9789e368f_640.jpg
 ---
@@ -52,4 +55,4 @@ A flash of blue. Screams. Complete silence.
 
 *I will make them pay.*
 
-*He will pay.*
+*HE will pay.*

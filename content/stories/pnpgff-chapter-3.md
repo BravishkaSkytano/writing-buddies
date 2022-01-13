@@ -1,11 +1,12 @@
-+++
-title = "[PNPGFF] - Chapter 3"
-date = "2021-04-06"
-author = "Bravisha Skietano"
-categories = ['Past Nightmares, Present Ghosts, Future Fears']
-tags = ['mystery', 'thriller', 'detective', 'special-needs']
-thumbnail = 'images/pnpgff.jpg'
-+++
+---
+title: "[PNPGFF] - Chapter 3"
+date: 2021-04-06
+author: "Bravisha Skietano"
+books: 'Past Nightmares. Present Ghosts. Future Fears.'
+categories: ['Mystery', 'Thriller']
+tags: ['mystery', 'thriller', 'detective', 'special-needs']
+thumbnail: 'images/pnpgff.jpg'
+---
 
 Zipporah briefly glanced around the living room. The Williams' had a small, cozy country house with a slightly modern look. Nothing seemed out of place. Greg Williams remained near the hall, looking sober, quiet, and a little hopeful. Jared and Robert rumaged around a bit but mostly stayed out of her way.
 

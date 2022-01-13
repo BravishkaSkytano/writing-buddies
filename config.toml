@@ -18,18 +18,23 @@ weight = 2
 
 [[menu.main]]
 name = "Books"
-url = "/categories/"
+url = "/books/"
 weight = 3
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = 'Join Us!'
 url = '/docs/'
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Subscribe"
@@ -51,3 +56,8 @@ url = "/index.xml"
 [params.utterances]
   repo = "Aspiring-Writer/writing-buddies"
   theme = "github-light"
+
+[taxonomies]
+  book = 'books'
+  category = 'categories'
+  tag = 'tags'

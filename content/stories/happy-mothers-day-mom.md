@@ -2,8 +2,8 @@
 title = "Happy Mother's Day, Mom"
 date = "2020-06-24"
 author = "Bravisha Skietano"
-categories = ['Poetry']
-tags = ['holidays', "Mother's Day", 'love']
+categories = ['Nonfiction']
+tags = ['poetry', 'holidays', "mothers", 'love']
 +++
 
 You know that feeling you get when you've became one year older?\

@@ -2,9 +2,9 @@
 title: "[TMF] - Chapter 1: The Game Begins"
 date: 2020-11-21
 author: "Bravisha Skietano"
-categories:
-- 'Test My Fire'
-tags: ['mystery', 'thriller', 'spy']
+books: Test My Fire
+categories: ['Mystery', 'Thriller']
+tags: ['spy']
 thumbnail: 'images/tmf.jpg'
 ---
 

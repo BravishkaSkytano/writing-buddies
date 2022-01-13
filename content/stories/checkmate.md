@@ -1,9 +1,10 @@
-+++
-title = "Checkmate"
-date = "2020-06-21"
-author = '8-Bally'
-categories = ['Plays']
-+++
+---
+title: "Checkmate"
+date: 2020-06-21
+author: '8-Bally'
+categories: ['Literary Fiction']
+tags: ['play']
+---
 
 The story begins in a sports stadium, where two players are battling it out. They are not playing soccer or football, but chess. As dull as it seems to our world, the people in this world love this game. When the white queen captures the black king, the crowd celebrates for the winner. But that is not all! When the mob leaves the stadium to go home, an unexpected explosion blows up in a nearby house. The town having their cell phones out, the firemen rush into the home on fire. The four people in the house are dead, the firemen realize, with their bodies on fire. But the dead people's neighbors say that there is a 5th, of whom which is a baby who is just born.
 

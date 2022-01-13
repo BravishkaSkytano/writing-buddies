@@ -1,11 +1,12 @@
-+++
-title = "[KaA] - Chapter One: The Stranger"
-date = "2020-06-25"
-author = 'Bravisha Skietano'
-categories = ['Kidnapped and Afraid']
-tags = ['mystery', 'kidnapping']
-thumbnail = 'images/kaa.jpg'
-+++
+---
+title: "[KaA] - Chapter One: The Stranger"
+date: 2020-06-25
+author: 'Bravisha Skietano'
+books: Kidnapped and Afraid
+categories: ['Mystery']
+tags: ['kidnapping']
+thumbnail: 'images/kaa.jpg'
+---
 
 Someone's watching me.
 

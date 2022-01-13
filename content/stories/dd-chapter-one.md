@@ -1,7 +1,8 @@
 ---
-title: "[Dear Diary...] - Chapter One"
+title: "[DD] Chapter One"
 date: 2020-11-21T23:51:39.611Z
 author: Bravisha Skietano
+books: 'Dear Diary...'
 categories:
 - 'Dear Diary'
 tags:

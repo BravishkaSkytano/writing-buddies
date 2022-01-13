@@ -1,1 +1,7 @@
+{{ if .Params.books }}
+<div class="categories">
+<p><a href="/books/{{ .Params.books | urlize }}">{{ .Params.books }}</a></p>
+</div>
+{{ end }}
+
 <p>&#9203; {{ .ReadingTime }} minutes</p>

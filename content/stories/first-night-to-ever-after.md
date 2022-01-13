@@ -2,8 +2,8 @@
 title = "First Night to Ever After ~ a Brett x Reader one-shot by Cherry"
 date = "2020-06-26"
 author = 'Cherry'
-categories = ['Flash Fiction', 'Fan-Fiction']
-tags = ['panic attack', 'rape', 'trauma', 'love']
+categories = ['Romance']
+tags = ['fan-fiction', 'panic attack', 'rape', 'trauma', 'love']
 +++
 
 **Warning:** This story includes a panic attack related to trauma from rape. Discretion is advised.

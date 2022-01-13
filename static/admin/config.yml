@@ -18,7 +18,7 @@ collections:
         label: 'Title'
         name: 'title'
         widget: 'string'
-        hint: "Remember: [BOOK] - Chapter... (unless your post is not part of a book)"
+        hint: "Remember: [BOOK] Chapter... (unless your post is not part of a book)"
         required: true
       - 
         label: 'Date'
@@ -30,18 +30,26 @@ collections:
         widget: 'string'
         hint: 'Make sure you spelled it correctly!'
         required: true
-      - 
+      -
         label: 'Book'
-        name: 'categories'
+        name: 'books'
         widget: 'string'
+        hint: 'The full title of the book this post belongs to, if any'
+      - 
+        label: 'Categories'
+        name: 'categories'
+        widget: 'select'
+        multiple: true
+        options: ['Literary Fiction', 'Mystery', 'Thriller', 'Horror', 'Historical', 'Romance', 'Western', 'Science Fiction', 'Fantasy', 'Dystopian', 'Realistic Fiction', 'Nonfiction']
         required: true
-        hint: "Until I can fix it, you need to format this field as ['Book Title']. Weird, I know, sorry"
+        hint: "This for the main genres (eg. Fantasy, Romance, Nonfiction)"
       - 
         label: 'Tags'
         name: 'tags'
         widget: 'list'
         allow_add: true
         label_singular: 'New tag'
+        hint: "This is for minor tags, like tropes or content warnings (eg. enemies-to-lovers, rape, steampunk). If you don't see it in the categories, you can add it here"
       - 
         label: "Description"
         name: 'description'

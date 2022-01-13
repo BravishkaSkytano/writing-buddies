@@ -1,9 +1,9 @@
-+++
-title = "Today"
-date = "2020-06-24"
-author = 'Bravisha Skietano'
-categories = ['Poetry']
-+++
+---
+title: "Today"
+date: 2020-06-24
+author: 'Bravisha Skietano'
+categories: ['Poetry']
+---
 
 Sometimes I wonder what's different 'bout today\
 It doesn't take long till I find something to say.\
