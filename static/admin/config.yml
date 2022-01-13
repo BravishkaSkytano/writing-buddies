@@ -35,6 +35,7 @@ collections:
         name: 'books'
         widget: 'string'
         hint: 'The full title of the book this post belongs to, if any'
+        required: false
       - 
         label: 'Categories'
         name: 'categories'
