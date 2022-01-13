@@ -37,14 +37,17 @@ url = "/index.xml"
 
 [params]
   summary_length = 200
-  github_edit = "/#/edit/stories/"
   footer = "Write. Read. Share. &copy; Writing Buddies 2020-22"
 
 [params.text]
-    about_author = "About the Author"
-    author_delimiter = ", "
-    back = "Back to Home"
-    edit = "Edit this page"
-    tags = "Tags: "
-    truncated = " &hellip;"
-    uncategorized = "Uncategorized"
+  about_author = "About the Author"
+  author_delimiter = ", "
+  back = "Back to Home"
+  edit = "Edit this page"
+  tags = "Tags: "
+  truncated = " &hellip;"
+  uncategorized = "Uncategorized"
+
+[params.utterances]
+  repo = "Aspiring-Writer/writing-buddies"
+  theme = "github-light"

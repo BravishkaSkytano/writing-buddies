@@ -1,0 +1,19 @@
+<hr>
+<p>To post comments, you will need a GitHub account and you need to authorize Utterances. Don't fret, it's easy.</p>
+
+<div class="utterances">
+  <script
+    src="https://utteranc.es/client.js"
+    repo="{{ $.Site.Params.utterances.repo }}"
+    issue-term="title"
+    theme="{{ $.Site.Params.utterances.theme }}"
+    crossorigin="anonymous"
+    async
+  ></script>
+</div>
+
+<p>If you don't see any comments, it's because Utterances uses third-party cookies and you might be blocking them. This can also happen if you run a privacy-focused browser or browser extensions (which I fully recommend). You need to whitelist Utteranc.es servers by looking in your browser/extension settings.</p>
+<ul>
+  <li>[*.]api.utteranc.es</li>
+  <li>https://[*.]utteranc.es:443</li>
+</ul>

@@ -14,13 +14,54 @@ collections:
     slug: '{{slug}}'
     preview_path: stories/{{slug}}
     fields:
-      - { label: 'Title', name: 'title', widget: 'string', hint: "Remember: [BOOK] - Chapter... (unless your post is not part of a book)" }
-      - { label: 'Date', name: 'date', widget: 'datetime' }
-      - { label: 'Author', name: 'author', widget: 'string', hint: 'Make sure you spelled it correctly!' }
-      - { label: 'Book', name: 'categories', widget: 'list', allow_add: true, label_singular: 'New book' }
-      - { label: 'Tags', name: 'tags', widget: 'list', allow_add: true, label_singular: 'New tag'}
-      - { label: "Description", name: 'description', widget: 'text', hint: 'Default is the first 200 characters of the post', required: false }
-      - { label: "Thumbnail", name: 'thumbnail', widget: 'image', allow_multiple: false, choose_url: true, hint: 'Default is the first image that appears in the post, if any', required: false }
-      - { label: "TOC", name: 'toc', widget: 'boolean', required: false }
-      - { label: "Body", name: 'body', widget: 'markdown' }
+      - 
+        label: 'Title'
+        name: 'title'
+        widget: 'string'
+        hint: "Remember: [BOOK] - Chapter... (unless your post is not part of a book)"
+      - 
+        label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+      - 
+        label: 'Author'
+        name: 'author'
+        widget: 'string'
+        hint: 'Make sure you spelled it correctly!'
+      - 
+        label: 'Book'
+        name: 'categories'
+        widget: 'list'
+        default: ["Uncategorized"]
+        allow_add: true
+        label_singular: 'New book'
+      - 
+        label: 'Tags'
+        name: 'tags'
+        widget: 'list'
+        allow_add: true
+        label_singular: 'New tag'
+      - 
+        label: "Description"
+        name: 'description'
+        widget: 'text'
+        hint: 'Default is the first 200 characters of the post'
+        required: false
+      - 
+        label: "Thumbnail"
+        name: 'thumbnail'
+        widget: 'image'
+        allow_multiple: false
+        choose_url: true
+        hint: 'Default is the first image that appears in the post, if any'
+        required: false
+      - 
+        label: "TOC"
+        name: 'toc'
+        widget: 'boolean'
+        required: false
+      - 
+        label: "Body"
+        name: 'body'
+        widget: 'markdown'
       
