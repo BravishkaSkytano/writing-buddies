@@ -1,8 +1,11 @@
 ---
-title: "[CoSaF] - I"
+title: "[CoSaR] - I"
 date: 2022-01-13T19:32:58.634Z
 author: Bravisha Skietano
-categories: "['Court of Shadows and Ruin']"
+books: Court of Shadows and Ruin
+categories:
+  - Fantasy
+  - Romance
 tags: []
 thumbnail: /images/fantasy-g9789e368f_640.jpg
 ---
