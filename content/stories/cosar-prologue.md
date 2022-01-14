@@ -4,8 +4,8 @@ date: 2022-01-13T00:05:20.429Z
 author: Bravisha Skietano
 books: Court of Shadows and Ruin
 categories:
-- 'Fantasy'
-- 'Romance'
+  - Fantasy
+  - Romance
 tags: []
 thumbnail: /images/fantasy-g9789e368f_640.jpg
 ---
@@ -43,9 +43,9 @@ A flash of light. The fae's yell. She was tossed out the balcony. Her father's e
 
 The girl slipped and tumbled down a ravine.
 
-Voices, the fae were here.
+Voices. The fae were here.
 
-She slowly stood as figures clothed in varying shades of gray to black surrounded her.
+She slowly stood as figures clothed in shades of white, navy blue, and black surrounded her.
 
 Her father's colors. Her colors. The fae were wearing her people's colors while they slaughtered them.
 
