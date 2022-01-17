@@ -12,7 +12,8 @@ collections:
     folder: content/stories
     create: true
     slug: '{{slug}}'
-    preview_path: stories/{{slug}}
+    path: '{{books}}/{{slug}}'
+    preview_path: stories/{{books}}/{{slug}}
     fields:
       - 
         label: 'Title'
@@ -48,37 +49,7 @@ collections:
         name: 'tags'
         widget: 'select'
         multiple: true
-        option:
-        - 'chosen one'
-        - 'secret heir'
-        - 'evil overlord'
-        - 'reluctant hero'
-        - 'lucky novice'
-        - 'waiting evil'
-        - 'the quest'
-        - 'fairytale retelling'
-        - 'rags-to-riches'
-        - 'medieval'
-        - 'powerful artifact'
-        - 'missing persons'
-        - 'detective fiction'
-        - 'cold case'
-        - 'marriage of convenience'
-        - 'love triangle'
-        - 'enemies-to-lovers'
-        - 'mafia'
-        - 'gang violence'
-        - 'military'
-        - 'rape'
-        - 'alcohol'
-        - 'therapy'
-        - 'fan-fiction'
-        - 'depression'
-        - 'loss'
-        - 'special-needs'
-        - 'Christmas'
-        - 'Valentines'
-        - 'Thanksgiving'
+        option: ['chosen one', 'secret heir', 'evil overlord', 'reluctant hero', 'lucky novice', 'waiting evil', 'the quest', 'fairytale retelling', 'rags-to-riches', 'medieval', 'powerful artifact', 'missing persons', 'detective fiction', 'cold case', 'marriage of convenience', 'love triangle', 'enemies-to-lovers', 'mafia', 'gang violence', 'military', 'rape', 'alcohol', 'therapy', 'fan-fiction', 'depression', 'loss', 'special-needs', 'Christmas', 'Valentines', 'Thanksgiving']
         required: true
       - 
         label: "Description"
