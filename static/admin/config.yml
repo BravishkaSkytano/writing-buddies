@@ -43,14 +43,43 @@ collections:
         multiple: true
         options: ['Literary Fiction', 'Mystery', 'Thriller', 'Horror', 'Historical', 'Romance', 'Western', 'Science Fiction', 'Fantasy', 'Dystopian', 'Realistic Fiction', 'Nonfiction']
         required: true
-        hint: "This for the main genres (eg. Fantasy, Romance, Nonfiction)"
       - 
         label: 'Tags'
         name: 'tags'
-        widget: 'list'
-        allow_add: true
-        label_singular: 'New tag'
-        hint: "This is for minor tags, like tropes or content warnings (eg. enemies-to-lovers, rape, steampunk). If you don't see it in the categories, you can add it here"
+        widget: 'select'
+        multiple: true
+        option:
+        - 'chosen one'
+        - 'secret heir'
+        - 'evil overlord'
+        - 'reluctant hero'
+        - 'lucky novice'
+        - 'waiting evil'
+        - 'the quest'
+        - 'fairytale retelling'
+        - 'rags-to-riches'
+        - 'medieval'
+        - 'powerful artifact'
+        - 'missing persons'
+        - 'detective fiction'
+        - 'cold case'
+        - 'marriage of convenience'
+        - 'love triangle'
+        - 'enemies-to-lovers'
+        - 'mafia'
+        - 'gang violence'
+        - 'military'
+        - 'rape'
+        - 'alcohol'
+        - 'therapy'
+        - 'fan-fiction'
+        - 'depression'
+        - 'loss'
+        - 'special-needs'
+        - 'Christmas'
+        - 'Valentines'
+        - 'Thanksgiving'
+        required: true
       - 
         label: "Description"
         name: 'description'
