@@ -60,16 +60,37 @@ Some of them are easy to figure out, so I won't mention them. I will try to go o
 
 #### Title
 
-For the title, there is a special naming sequence to use if you are writing a book chapter(s) (If you have ever posted on the Reddit Serials subreddit, then you are already familiar with it). Your title should include the name of your book in brackets (abbreviate this if it's longer then two words), followed by a dash, and lastly the name of your chapter.
+For the title, there is a special naming sequence to use if you are writing a book chapter(s) (If you have ever posted on the Reddit Serials subreddit, then you are already familiar with it). Your title should include the name of your abbreviated book title in brackets, followed by a dash, and concluded with the name of your chapter.
 
 > **Example:**\
-> [Dear Diary...] - Chapter 1\
+> [DD] - Chapter 1\
 > [TMF] - 1. The Game Begins\
 > [PNPGFF] - Chapter 4: Time to Party
 
-This is just so readers will know which chapters go to what books and all. It really doesn't matter what comes after the book title and the dash, as long as those two are there you are good to go.
+This is just so readers will know which chapters go to what books and all. It really doesn't matter what comes after the book title and the dash, as long as those two are there, you are good to go.
 
 If your post is not part of a book, then you can just type in the title of your work. This also applies if you are posting something, like a play, that is split in two or three parts.
+
+#### Categories
+
+These are pretty easy to figure out, so I will keep it brief. Categories are the main genres of your work, and there can be more than one. The following are the options and their definitions:
+
+* **Mystery:** if your story evolves around a problem that needs to be solved, there's a good chance it belongs in this genre. Mysteries are where those crime-solving, justice-dealing detectives belong. Examples include *The Adventures of Sherlock Holmes* by Arthur Conan Doyle, and *Murder in the Vicarage* by Agatha Christie.
+* **Thriller:** mysteries and thrillers are often placed together into one category, but there are a few differences. A thriller could be described as a fast-paced action story with spies and assassins. Think of Tom Cruise, '007, and Black Widow. Thrillers are not necessarily mysteries and vice versa because each genre focuses more on the thrill or the mystery.
+* **Horror:** when I think of horror, Goosebumps and IT immediately come to mind. These stories are meant to give you goosebumps and keep you up at night.
+* **Historical Fiction:** this can be anything that takes place in a past era. Think about the medieval or victorian times and you have a pretty good idea. It could even be something more recent like WW2.
+* **Romance:** you should know what this genre includes based on the name alone. If not, "romance" includes, well, any story that is centered around the... love relationship of two characters (you try explaining that without using the word "romance").
+* **Western** one word: cowboys.
+* **Science Fiction:** this genre gets confused with fantasy a lot because it contains elements that are unreal or imaginative, but it's different because all the "supernatural stuff" can be fully, or mostly, explained by science, not magic.
+* **Fantasy:** if it's centered around magic, it belongs here. Popular examples includes *Throne of Glass* by Sarah J. Maas, *The Lion, The Witch, and The Wardrobe* by C.S. Lewis, and *The Fellowship of the Ring* by J.R.R. Tolkien.
+* **Dystopian:** anything with a deprived, oppressed, or terror-stricken place. Think of The Hunger Games, The Maze Runner, and Arena 13.
+* **Realistic Fiction:** this is the opposite of science fiction and fantasy; the story could easily be real and happen tomorrow.
+* **Literary Fiction:** this one is difficult to explain, but it could be summarized as "serious" fiction and it usually overlaps with others. This is character-driven, introspective, and often lacking a tidy story plot. Examples include *A Christmas Carol* by Charles Dickens, *Uncle Tom's Cabin* by Harriet Beecher Stowe, and *The Catcher in the Rye* by J.D. Salinger.
+* **Nonfiction:** self-help, training, "real" stuff, "boring" stuff etc.
+
+#### Tags
+
+Tags are the "little genres" that help further categorize your story. There are dozens of them, so I won't list them all here. If you come across one that you don't understand, you can either ignore it or google it. And, if there is a tag that you want want added, create an [issue on GitHub](https://github.com/Aspiring-Writer/writing-buddies/issues/new) or post it in the comments on the [author page](/authors/)
 
 #### Description, Thumbnail, and TOC
 
